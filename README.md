@@ -1,16 +1,56 @@
-## Hi there 👋
+<!-- README.md do perfil GitHub -->
 
-<!--
-**viceda-s/viceda-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá 👋, eu sou Vicente</h1>
+<h3 align="center">Desenvolvedor apaixonado por aprender e construir coisas úteis 💻</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/teu-usuario">
+    <img src="https://komarev.com/ghpvc/?username=teu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+
+- 🔭 Atualmente, estou a trabalhar no seguinte projeto: **[born2beroot @ 42 Luxembourg]**
+- 🌱 A aprender: **C, C++, Python, SQL**
+- 💬 Pergunta-me sobre: **C, estruturas de dados, programação em baixo nível**
+- ⚡ Curiosidade: *Adoro resolver desafios técnicos e otimizar código.*
+
+---
+
+### 🛠️ Linguagens e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 Estatísticas GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=teu-usuario&show_icons=true&theme=radical" alt="estatísticas github"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teu-usuario&layout=compact&theme=radical" alt="linguagens mais usadas"/>
+</p>
+
+---
+
+### 🌐 Onde me encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/teu-usuario)
+- [42 Profile](https://profile.intra.42.fr/users/teu-usuario) *(se aplicável)*
+
+---
+
+📌 *Este README foi gerado com carinho para mostrar um pouco sobre mim!*
+

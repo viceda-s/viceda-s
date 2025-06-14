@@ -1,7 +1,7 @@
 <!-- README.md do perfil GitHub -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" width=300px />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" width=500px />
 </p>
 
 <p align="center">
@@ -21,10 +21,11 @@
 
 ---
 
+### 💬 Redes Sociais
+
 <p align="center">
-  <a href="https://www.instagram.com/o.tartaruga.genial"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/vicente-coelho-706a3a102/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" /></a>
+  <a href="https://www.instagram.com/o.tartaruga.genial"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/vicente-coelho-706a3a102/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
   <a href="https://discord.com/users/viceda-s"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40"/></a>
 </p>
 
@@ -46,18 +47,7 @@
 
 ### 📈 Estatísticas GitHub
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=radical" alt="estatísticas github"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=radical" alt="linguagens mais usadas"/>
-</p>
-
----
-
-### 🌐 Onde me encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/vicente-coelho-706a3a102/)
-- [42 Profile](https://profile.intra.42.fr/users/teu-usuario) *(se aplicável)*
-
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=radical" alt="estatísticas github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=radical" alt="linguagens mais usadas" width="48%" />
+</div>

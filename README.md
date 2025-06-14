@@ -1,7 +1,8 @@
 <!-- README.md do perfil GitHub -->
 
-<h1 align="center">Olá 👋, eu sou Vicente</h1>
-<h3 align="center">Estudante na 42 Luxembourg 💻</h3>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
+</p>
 
 <p align="center">
   <a href="https://github.com/viceda-s">
@@ -29,6 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/sql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 
 ---

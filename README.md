@@ -15,7 +15,7 @@
 ### 🚀 Sobre mim
 
 - 🔭 Atualmente, estou a trabalhar no seguinte projeto: **[born2beroot @ 42 Luxembourg]**
-- 🌱 A aprender: **C, C++, Python, SQL**
+- 🌱 A aprender: **C, C++, Python, mySQL**
 - 💬 Pergunta-me sobre: **C, estruturas de dados, programação em baixo nível**
 - ⚡ Curiosidade: *Adoro resolver desafios técnicos e otimizar código.*
 

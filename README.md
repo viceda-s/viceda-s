@@ -1,11 +1,11 @@
 <!-- README.md do perfil GitHub -->
 
 <h1 align="center">Olá 👋, eu sou Vicente</h1>
-<h3 align="center">Desenvolvedor apaixonado por aprender e construir coisas úteis 💻</h3>
+<h3 align="center">Estudante na 42 Luxembourg 💻</h3>
 
 <p align="center">
-  <a href="https://github.com/teu-usuario">
-    <img src="https://komarev.com/ghpvc/?username=teu-usuario&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/viceda-s">
+    <img src="https://komarev.com/ghpvc/?username=viceda-s&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
@@ -47,10 +47,6 @@
 
 ### 🌐 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/teu-usuario)
+- [LinkedIn](https://www.linkedin.com/in/vicente-coelho-706a3a102/)
 - [42 Profile](https://profile.intra.42.fr/users/teu-usuario) *(se aplicável)*
-
----
-
-📌 *Este README foi gerado com carinho para mostrar um pouco sobre mim!*
 

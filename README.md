@@ -1,7 +1,7 @@
 <!-- README.md do perfil GitHub -->
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" width=300px />
 </p>
 
 <p align="center">
@@ -18,6 +18,14 @@
 - 🌱 A aprender: **C, C++, Python, mySQL**
 - 💬 Pergunta-me sobre: **C, estruturas de dados, programação em baixo nível**
 - ⚡ Curiosidade: *Adoro resolver desafios técnicos e otimizar código.*
+
+---
+
+<p align="left">
+  <a href="https://www.instagram.com/o.tartaruga.genial"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" /></a>
+  <a href="https://www.linkedin.com/in/vicente-coelho-706a3a102/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
+  <a href="https://discord.com/users/viceda-s"><img src="https://cdn.simpleicons.org/discord/5865F2/white" width="40" height="40"/></a>
+</p>
 
 ---
 

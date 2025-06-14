@@ -22,9 +22,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.instagram.com/o.tartaruga.genial"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" width="40" height="40" /></a>
-  <a href="https://www.linkedin.com/in/vicente-coelho-706a3a102/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" /></a>
-  <a href="https://discord.com/users/viceda-s"><img src="https://cdn.simpleicons.org/discord/5865F2/white" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/o.tartaruga.genial"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vicente-coelho-706a3a102/"> <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" height="40" /></a>
+  <a href="https://discord.com/users/viceda-s"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" height="40"/></a>
 </p>
 
 ---

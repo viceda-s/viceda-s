@@ -1,4 +1,4 @@
-<!-- README.md do perfil GitHub -->
+<!-- GitHub Profile README -->
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" width=500px />
@@ -12,16 +12,15 @@
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About Me
 
-- 🔭 Atualmente, estou a trabalhar no seguinte projeto: **[born2beroot @ 42 Luxembourg]**
-- 🌱 A aprender: **C, C++, Python, mySQL**
-- 💬 Pergunta-me sobre: **C, estruturas de dados, programação em baixo nível**
-- ⚡ Curiosidade: *Fã de humor negro... ainda mais negro que o Mantorras!*
+- 🔭 Currently working on: **[born2beroot @ 42 Luxembourg]**
+- 🌱 Learning: **C, C++, Python, MySQL**
+- ⚡ Fun fact: *Fan of dark humor... darker than Mantorras himself!*
 
 ---
 
-### 💬 Redes Sociais
+### 💬 Social Media
 
 <p align="center">
   <a href="https://www.instagram.com/o.tartaruga.genial"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40"/></a>
@@ -31,7 +30,7 @@
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -45,9 +44,8 @@
 
 ---
 
-### 📈 Estatísticas GitHub
+### 📈 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=radical" alt="estatísticas github" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=radical" alt="linguagens mais usadas" width="48%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-lan

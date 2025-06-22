@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **[born2beroot @ 42 Luxembourg]**
+- 🔭 Currently working on: **[get_next_line @ 42 Luxembourg]**
 - 🌱 Learning: **C, C++, Python, MySQL**
 - ⚡ Fun fact: *Fan of dark humor... darker than Mantorras himself!*
 

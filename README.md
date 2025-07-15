@@ -14,7 +14,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **[push_swap @ 42 Luxembourg]**
+- 🔭 Currently working on: **[so_long @ 42 Luxembourg]**
 - 🌱 Learning: **C, C++, Python, MySQL**
 - ⚡ Fun fact: *Fan of dark humor... darker than Mantorras himself!*
 

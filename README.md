@@ -1,13 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" width=500px />
-</p>
-
-<p align="center">
-  <a href="https://github.com/viceda-s">
-    <img src="https://komarev.com/ghpvc/?username=viceda-s&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/viceda-s?1337Badge=off&UM6P=off" alt="viceda-s's 42 stats" /></a>
 </p>
 
 ---

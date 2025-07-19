@@ -1,5 +1,8 @@
 <!-- GitHub Profile README -->
 
+<p align="center">  
+👨‍💻 Learning to code, one line at a time. This is where my bugs and breakthroughs live.
+</p>
 <p align="center">
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/viceda-s?1337Badge=off&UM6P=off" alt="viceda-s's 42 stats" /></a>
 </p>
@@ -8,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **[so_long @ 42 Luxembourg]**
+- ⚙️ Currently working on: **[so_long]**
 - 🌱 Learning: **C, C++, Python, MySQL**
 - ⚡ Fun fact: *Fan of dark humor... darker than Mantorras himself!*
 
@@ -41,6 +44,7 @@
 ### 📈 GitHub Stats
 
 <div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=radical" alt="Vicente's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=radical" width="485" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-lan
+  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=default_dark" alt="Vicente's GitHub stats" width="48%" />
+  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=default_dark" width="35%" alt="Top Languages"/>

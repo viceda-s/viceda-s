@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- ⚙️ Currently working on: **[so_long]**
+- ⚙️ Currently working on: **[Philosophers]**
 - 🌱 Learning: **C, C++, Python, MySQL**
 - ⚡ Fun fact: *Fan of dark humor... darker than Mantorras himself!*
 

@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Currently working
+## ⚙️ Currently working
 
 ### 🧠 Philosophers
 *A classic synchronization problem implementation*

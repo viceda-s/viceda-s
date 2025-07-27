@@ -80,16 +80,6 @@
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-
-![Vicente's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viceda-s&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Learning Path
 
 ```

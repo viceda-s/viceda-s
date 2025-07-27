@@ -1,50 +1,160 @@
 <!-- GitHub Profile README -->
 
-<p align="center">  
-👨‍💻 Learning to code, one line at a time. This is where my bugs and breakthroughs live.
-</p>
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/viceda-s?1337Badge=off&UM6P=off" alt="viceda-s's 42 stats" /></a>
-</p>
+# 👨‍💻 Hello! I'm Vicente
 
----
-
-### 🚀 About Me
-
-- ⚙️ Currently working on: **[Philosophers]**
-- 🌱 Learning: **C, C++, Python, MySQL**
-- ⚡ Fun fact: *Fan of dark humor... darker than Mantorras himself!*
-
----
-
-### 💬 Social Media
-
-<p align="center">
-  <a href="https://www.instagram.com/o.tartaruga.genial"> <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/vicente-coelho-706a3a102/"> <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://discord.com/users/viceda-s">  <img src="https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=default_dark" alt="Vicente's GitHub stats" width="48%" />
+<div align="center">
   
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=default_dark" width="35%" alt="Top Languages"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+new+Languages,;One+line+of+code+at+a+time!)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+🌱 **Currently studying:** C, C++, Python, MySQL  
+⚙️ **Working on:** Philosophers  
+🎯 **Goal:** Becoming a skilled software developer and contributing to meaningful projects  
+📚 **Learning:** Data structures, algorithms and system programming  
+😄 **Pronouns:** your/sis  
+😂 **Fun fact:** My humor is darker than a terminal without syntax highlighting!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## 🚀 Currently working
+
+### 🧠 Philosophers
+*A classic synchronization problem implementation*
+- **Status:** In Progress 🚧
+- **Technologies:** C, Threading, Mutex
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viceda-s&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=viceda-s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+![Vicente's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=viceda-s&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Current Learning Path
+
+```
+🎯 2024-2025 Goals:
+├── 📚 Master C/C++ fundamentals
+├── 🐍 Enhance Python skills
+├── 🗄️ Deepen database knowledge (MySQL)
+├── 🔧 Complete school projects successfully
+├── 🚀 Build portfolio projects
+└── 🤝 Contribute to open source
+```
+
+---
+
+## 💡 Quote
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-coelho-706a3a102/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicente.coelho95@gmail.com)
+
+</div>
+
+---
+
+## 🎲 Random Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
+
+</div>
+
+---
+
+## 👀 Profile Views
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=viceda-s&color=blue&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Show some love by starring some repositories if you find them helpful! ⭐
+
+*"Making the journey fun to follow along!"*
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
+</div>

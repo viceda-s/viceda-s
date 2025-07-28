@@ -16,7 +16,7 @@
 ⚙️ **Working on:** Philosophers  
 🎯 **Goal:** Becoming a skilled software developer and contributing to meaningful projects  
 📚 **Learning:** Data structures, algorithms and system programming  
-😄 **Pronouns:** your/sis  
+😄 **Pronouns:** your/cousin
 😂 **Fun fact:** My humor is darker than a terminal without syntax highlighting!
 
 ---

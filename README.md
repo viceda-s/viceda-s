@@ -16,7 +16,7 @@
 ⚙️ **Working on:** Philosophers  
 🎯 **Goal:** Becoming a skilled software developer and contributing to meaningful projects  
 📚 **Learning:** Data structures, algorithms and system programming  
-😄 **Pronouns:** your/cousin
+😄 **Pronouns:** your/cousin  
 😂 **Fun fact:** My humor is darker than a terminal without syntax highlighting!
 
 ---
@@ -141,10 +141,4 @@
 
 *"Making the journey fun to follow along!"*
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" />
 </div>

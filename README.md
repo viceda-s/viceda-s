@@ -14,7 +14,7 @@
 
 🌱 **Currently studying:** C, C++, Python, MySQL  
 ⚙️ **Working on:** Philosophers  
-🎯 **Goal:** Becoming a skilled software developer and contributing to meaningful projects  
+🎯 **Goal:** Becoming a skilled software developer  
 📚 **Learning:** Data structures, algorithms and system programming  
 😄 **Pronouns:** your/cousin  
 😂 **Fun fact:** My humor is darker than a terminal without syntax highlighting!
@@ -83,7 +83,7 @@
 ## 🎯 Current Learning Path
 
 ```
-🎯 2024-2025 Goals:
+🎯 2025-2027 Goals:
 ├── 📚 Master C/C++ fundamentals
 ├── 🐍 Enhance Python skills
 ├── 🗄️ Deepen database knowledge (MySQL)

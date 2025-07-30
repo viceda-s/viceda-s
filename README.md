@@ -41,10 +41,10 @@
 
 ## ⚙️ Currently working
 
-### 🧠 Philosophers
-*A classic synchronization problem implementation*
-- **Status:** In Progress 🚧
-- **Technologies:** C, Threading, Mutex
+### 🐚 Minishell
+*A miniature Unix shell implementation*
+  - **Status:** In Progress 🚧
+  - **Technologies:** C, Process Management, File Descriptors, Signals
 
 ---
 

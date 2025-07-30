@@ -13,7 +13,6 @@
 ## 🚀 About Me
 
 🌱 **Currently studying:** C, C++, Python, MySQL  
-⚙️ **Working on:** Philosophers  
 🎯 **Goal:** Becoming a skilled software developer  
 📚 **Learning:** Data structures, algorithms and system programming  
 😄 **Pronouns:** your/cousin  

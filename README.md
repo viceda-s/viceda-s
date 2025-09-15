@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🌱 **Currently studying:** C, C++, Python, MySQL  
+🌱 **Currently studying:** C, C++, Java  
 🎯 **Goal:** Becoming a skilled software developer  
 📚 **Learning:** Data structures, algorithms and system programming  
 😄 **Pronouns:** your/cousin  
@@ -25,15 +25,12 @@
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Web Development
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-
-### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Technologies
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -43,12 +40,19 @@
 
 ---
 
-## ⚙️ Currently working
+## ⚙️ Currently Working On
 
-### 🐚 Minishell
-*A miniature Unix shell implementation*
-  - **Status:** In Progress 🚧
-  - **Technologies:** C, Process Management, File Descriptors, Signals
+### 💻 C++ Modules 00–04  
+*A journey through object-oriented programming in C++*
+
+- **Status:** In Progress 🚧  
+- **Modules:**
+  - `Module 00`: Basic syntax, namespaces, I/O, and data types  
+  - `Module 01`: Memory allocation, references, pointers, and file streams  
+  - `Module 02`: Classes, member functions, accessors, and constructors  
+  - `Module 03`: Inheritance, polymorphism, abstract classes  
+  - `Module 04`: Operator overloading, interfaces, subtyping  
+- **Topics:** C++, OOP, Memory Management, Inheritance, Polymorphism
 
 ---
 
@@ -89,8 +93,7 @@
 ```
 🎯 2025-2027 Goals:
 ├── 📚 Master C/C++ fundamentals
-├── 🐍 Enhance Python skills
-├── 🗄️ Deepen database knowledge (MySQL)
+├── 🐍 Enhance Java skills
 ├── 🔧 Complete school projects successfully
 ├── 🚀 Build portfolio projects
 └── 🤝 Contribute to open source

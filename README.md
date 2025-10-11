@@ -42,13 +42,11 @@
 
 ## ⚙️ Currently Working On
 
-### 💻 C++ Modules 00–04  
+### 💻 C++ Modules 02–04  
 *A journey through object-oriented programming in C++*
 
 - **Status:** In Progress 🚧  
 - **Modules:**
-  - `Module 00`: Basic syntax, namespaces, I/O, and data types  
-  - `Module 01`: Memory allocation, references, pointers, and file streams  
   - `Module 02`: Classes, member functions, accessors, and constructors  
   - `Module 03`: Inheritance, polymorphism, abstract classes  
   - `Module 04`: Operator overloading, interfaces, subtyping  
@@ -93,7 +91,7 @@
 ```
 🎯 2025-2027 Goals:
 ├── 📚 Master C/C++ fundamentals
-├── 🐍 Enhance Java skills
+├── ☕ Enhance Java skills
 ├── 🔧 Complete school projects successfully
 ├── 🚀 Build portfolio projects
 └── 🤝 Contribute to open source

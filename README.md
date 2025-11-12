@@ -42,13 +42,11 @@
 
 ## ⚙️ Currently Working On
 
-### 💻 C++ Modules 02–04  
+### 💻 C++ Modules 04  
 *A journey through object-oriented programming in C++*
 
 - **Status:** In Progress 🚧  
-- **Modules:**
-  - `Module 04`: Operator overloading, interfaces, subtyping  
-- **Topics:** C++, OOP, Memory Management, Inheritance, Polymorphism
+- **Topics:** C++, OOP, Operator overloading, Interfaces, Subtyping
 
 ---
 

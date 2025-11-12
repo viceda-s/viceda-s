@@ -47,8 +47,6 @@
 
 - **Status:** In Progress 🚧  
 - **Modules:**
-  - `Module 02`: Classes, member functions, accessors, and constructors  
-  - `Module 03`: Inheritance, polymorphism, abstract classes  
   - `Module 04`: Operator overloading, interfaces, subtyping  
 - **Topics:** C++, OOP, Memory Management, Inheritance, Polymorphism
 

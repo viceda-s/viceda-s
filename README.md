@@ -42,11 +42,11 @@
 
 ## ⚙️ Currently Working On
 
-### 💻 C++ Modules 04  
-*A journey through object-oriented programming in C++*
+### 📡  [ft_irc (with @ghjoaorodrigues)](https://github.com/42-joaorodrigues/ft_irc/tree/main)
+*A journey into building a real IRC server from scratch*
 
 - **Status:** In Progress 🚧  
-- **Topics:** C++, OOP, Operator overloading, Interfaces, Subtyping
+- **Topics:** C++98, TCP Sockets, poll(), RFC 1459, Multi-client architecture, IRC Commands
 
 ---
 

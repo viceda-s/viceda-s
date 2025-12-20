@@ -44,12 +44,11 @@
 
 ## ⚙️ Currently Working On
 
-### 📡  [ft_irc (with @ghjoaorodrigues)](https://github.com/42-joaorodrigues/ft_irc/tree/main)
-*A journey into building a real IRC server from scratch*
+### 📡  [webserv (w/ brunmart)](https://github.com/viceda-s/42-cursus-level-5/tree/main/webserv)
+*Develop a custom HTTP server in C++, compliant with the HTTP/1.1 specification,*
 
 - **Status:** In Progress 🚧  
-- **Topics:** C++98, TCP Sockets, poll(), RFC 1459, Multi-client architecture, IRC Commands
-
+- **Topics:** C++98, TCP Sockets and non-blocking IO, HTTP request and response, CGI execution
 ---
 
 ## 📊 GitHub Stats

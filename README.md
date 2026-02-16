@@ -29,17 +29,17 @@
 ![Web Development](https://skillicons.dev/icons?i=js,html,css)
 
 ### Tools & Technologies
-![Tools & Technologies](https://skillicons.dev/icons?i=ansible,bash,docker,git,jenkins,linux&theme=light)
+![Tools & Technologies](https://skillicons.dev/icons?i=ansible,bash,docker,git,jenkins,linux,maven,spring&theme=light)
 
 ---
 
 ## ⚙️ Currently Working On
 
-### 📡  [webserv (w/ brunmart)](https://github.com/viceda-s/42-cursus-level-5/tree/main/webserv)
-*Develop a custom HTTP server in C++, compliant with the HTTP/1.1 specification,*
+### 🐳  [Inception](https://github.com/viceda-s/42-cursus-level-5/tree/main/Inception)
+*Build a complete Docker-based infrastructure using Docker Compose, setting up multiple interconnected services (NGINX, WordPress, MariaDB) within a virtualized environment.*
 
 - **Status:** In Progress 🚧  
-- **Topics:** C++98, TCP Sockets and non-blocking IO, HTTP request and response, CGI execution
+- **Topics:** Docker, Docker Compose, NGINX configuration, container networking, volumes, environment variables
 ---
 
 ## 📊 GitHub Stats

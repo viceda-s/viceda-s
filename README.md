@@ -23,23 +23,24 @@
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java&theme=light)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py&theme=light)
 
 ### Web Development
 ![Web Development](https://skillicons.dev/icons?i=js,html,css)
 
 ### Tools & Technologies
-![Tools & Technologies](https://skillicons.dev/icons?i=ansible,bash,docker,git,jenkins,linux,maven,spring&theme=light)
+![Tools & Technologies](https://skillicons.dev/icons?i=ansible,bash,docker,git,jenkins,linux,maven,spring,tauri&theme=light)
 
 ---
 
 ## ⚙️ Currently Working On
 
-### 🐳  [Inception](https://github.com/viceda-s/42-cursus-level-5/tree/main/Inception)
-*Build a complete Docker-based infrastructure using Docker Compose, setting up multiple interconnected services (NGINX, WordPress, MariaDB) within a virtualized environment.*
+### 📈  Valore - Wealth Management System
+*Local-first desktop app for wealth managers to consolidate and analyze multi-bank portfolio statements. Parses PDF from several banks, normalizes positions, and tracks portfolio evolution.
+Currently migrating from PyQt6 to a FastAPI + React + Tauri monorepo for richer data UIs — all data stays on-device, no cloud.*
 
 - **Status:** In Progress 🚧  
-- **Topics:** Docker, Docker Compose, NGINX configuration, container networking, volumes, environment variables
+- **Topics:** `python` `fastapi` `react` `tauri` `sqlite` `pdf-parsing` `wealth-management` `portfolio` `desktop-app` `local-first` `finance` `monorepo`
 ---
 
 ## 📊 GitHub Stats
@@ -59,16 +60,6 @@
 <div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viceda-s&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=viceda-s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 </div>
 
@@ -101,8 +92,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicente-coelho-706a3a102/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vicente.coelho95@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/vicente-coelho-706a3a102/)
+[![Email](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:vicente.coelho95@gmail.com)
 
 </div>
 

@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-🌱 **Currently studying:** C, C++, Java  
+🌱 **Currently studying:** Java, SpringBoot
 🎯 **Goal:** Becoming a skilled software developer  
 📚 **Learning:** Data structures, algorithms and system programming  
 😄 **Pronouns:** your/cousin  
@@ -41,6 +41,13 @@ Currently migrating from PyQt6 to a FastAPI + React + Tauri monorepo for richer 
 
 - **Status:** In Progress 🚧  
 - **Topics:** `python` `fastapi` `react` `tauri` `sqlite` `pdf-parsing` `wealth-management` `portfolio` `desktop-app` `local-first` `finance` `monorepo`
+
+### 🏋️ WorkoutTrackerAPI — Fitness Workout Tracker
+*Secure RESTful backend for planning workouts and tracking training progress. Users authenticate via stateless JWT, browse a filterable exercise library, build owner-scoped workout plans with sets/reps/weight, and pull progress reports over a date range. Built with production-grade habits — Flyway migrations, rate limiting, RFC 7807 errors, and a live Swagger UI.*
+
+- **Status:** In Progress 🚧  
+- **Topics:** `java` `spring-boot` `postgresql` `jwt` `spring-security` `flyway` `rest-api` `openapi` `rate-limiting` `docker` `fitness` `backend`
+
 ---
 
 ## 📊 GitHub Stats

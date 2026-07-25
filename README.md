@@ -23,13 +23,10 @@
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py&theme=light)
-
-### Web Development
-![Web Development](https://skillicons.dev/icons?i=js,html,css)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py,ts&theme=light)
 
 ### Tools & Technologies
-![Tools & Technologies](https://skillicons.dev/icons?i=,bash,docker,git,linux,maven,spring&theme=light)
+![Tools & Technologies](https://skillicons.dev/icons?i=bash,docker,git,linux,maven,spring&theme=light)
 
 ---
 

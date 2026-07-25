@@ -37,7 +37,7 @@
 
 ### 📈  Valore - Wealth Management System
 *Local-first desktop app for wealth managers to consolidate and analyze multi-bank portfolio statements. Parses PDF from several banks, normalizes positions, and tracks portfolio evolution.
-Currently migrating from PyQt6 to a FastAPI + React + Tauri monorepo for richer data UIs — all data stays on-device, no cloud.*
+Built with a FastAPI + React + Tauri monorepo for rich data UIs — all data stays on-device, no cloud.*
 
 - **Status:** In Progress 🚧  
 - **Topics:** `python` `fastapi` `react` `tauri` `sqlite` `pdf-parsing` `wealth-management` `portfolio` `desktop-app` `local-first` `finance` `monorepo`

@@ -188,13 +188,16 @@ My current goal is to grow into a **DevOps / Platform Engineering role**, combin
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viceda-s&theme=tokyonight&hide_border=true)
-
+  <table border="0">
+    <tr>
+      <td border="0">
+        <img src="https://github-stats-extended.vercel.app/api?username=viceda-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      </td>
+      <td border="0">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

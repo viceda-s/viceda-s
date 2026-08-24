@@ -1,10 +1,10 @@
 <!-- GitHub Profile README -->
 
-# 👨‍💻 Hello! I'm Vicente
+# 👨‍💻 Hi, I'm Vicente
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Learning+new+Languages,;One+line+of+code+at+a+time!)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Software+Developer+%7C+DevOps+Enthusiast;Building%2C+Automating%2C+Learning;One+project+at+a+time!)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,38 +12,176 @@
 
 ## 🚀 About Me
 
-🌱 **Currently studying:** Java, SpringBoot
-🎯 **Goal:** Becoming a skilled software developer  
-📚 **Learning:** Data structures, algorithms and system programming  
-😄 **Pronouns:** your/cousin  
-😂 **Fun fact:** My humor is darker than a terminal without syntax highlighting!
+I'm a **Software Development student at 42 Luxembourg**, currently focusing on backend development, infrastructure, automation and DevOps.
+
+I enjoy understanding how systems work end-to-end — from writing the application to **containerizing it, automating its delivery, monitoring it and dealing with failures**.
+
+My interest in DevOps grew through hands-on projects such as **Inception** and has since developed through personal projects involving CI/CD, Docker, monitoring and automation.
+
+### Currently focused on
+
+- 🐳 **Docker & containerization**
+- ⚙️ **CI/CD & automation**
+- 📊 **Monitoring & observability**
+- 🐍 **Python & backend development**
+- ☕ **Java & Spring Boot**
+- 🐧 **Linux & infrastructure**
+- 🔧 **Software engineering practices**
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py,ts&theme=light)
 
-### Tools & Technologies
-![Tools & Technologies](https://skillicons.dev/icons?i=bash,docker,git,linux,maven,spring&theme=light)
+![Programming Languages](https://skillicons.dev/icons?i=c,cpp,java,py,ts,js,bash&theme=light)
+
+### Backend & Frameworks
+
+![Backend](https://skillicons.dev/icons?i=spring,fastapi,nodejs,nestjs&theme=light)
+
+### DevOps & Infrastructure
+
+![DevOps](https://skillicons.dev/icons?i=docker,linux,git,githubactions,prometheus,grafana,nginx&theme=light)
+
+### Databases
+
+![Databases](https://skillicons.dev/icons?i=postgresql,redis,sqlite&theme=light)
+
+### AI-Assisted Development
+<div align="left">
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/antigravity-color.svg" alt="Antigravity" width="44" height="44" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/copilot-color.svg" alt="GitHub Copilot" width="44" height="44" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/claudecode-color.svg" alt="Claude Code" width="44" height="44" />
+</div>
+
+I regularly use AI-assisted development tools as part of my workflow for code exploration, implementation, debugging, refactoring, documentation and problem solving — while keeping technical decisions and validation under my responsibility.
 
 ---
 
-## ⚙️ Currently Working On
+## 🔥 Featured Projects
 
-### 📈  Valore - Wealth Management System
-*Local-first desktop app for wealth managers to consolidate and analyze multi-bank portfolio statements. Parses PDF from several banks, normalizes positions, and tracks portfolio evolution.
-Built with a FastAPI + React + Tauri monorepo for rich data UIs — all data stays on-device, no cloud.*
+### 🛡️ SentinelOps — Monitoring & Incident Response
 
-- **Status:** In Progress 🚧  
-- **Topics:** `python` `fastapi` `react` `tauri` `sqlite` `pdf-parsing` `wealth-management` `portfolio` `desktop-app` `local-first` `finance` `monorepo`
+**Enterprise-inspired monitoring and automated incident response platform.**
 
-### 🏋️ WorkoutTrackerAPI — Fitness Workout Tracker
-*Secure RESTful backend for planning workouts and tracking training progress. Users authenticate via stateless JWT, browse a filterable exercise library, build owner-scoped workout plans with sets/reps/weight, and pull progress reports over a date range. Built with production-grade habits — Flyway migrations, rate limiting, RFC 7807 errors, and a live Swagger UI.*
+SentinelOps explores the complete operational lifecycle beyond simply generating an alert:
 
-- **Status:** In Progress 🚧  
-- **Topics:** `java` `spring-boot` `postgresql` `jwt` `spring-security` `flyway` `rest-api` `openapi` `rate-limiting` `docker` `fitness` `backend`
+**Detect → Enrich → Acknowledge → Remediate → Verify → Resolve / Escalate → Audit**
+
+**Stack**
+
+`Python` `Flask` `Docker` `Docker Compose` `Prometheus` `Alertmanager` `Grafana` `PostgreSQL` `Bash`
+
+**Highlights**
+
+- Automated incident detection and response
+- Autonomous remediation playbooks
+- Prometheus-based monitoring and alerting
+- Grafana operational dashboards
+- SLA / MTTR / MTTA tracking
+- PostgreSQL-backed incident management
+- Health checks and operational tooling
+- Chaos testing for incident-response workflows
+- Architecture Decision Records and operational runbooks
+
+🔗 **[View SentinelOps →](https://github.com/viceda-s/SentinelOps)**
+
+---
+
+### 🐳 Inception — Docker Infrastructure
+
+**System administration and containerization project developed as part of the 42 curriculum.**
+
+Inception is a multi-service infrastructure built from scratch with Docker, focusing on containerization, networking, persistent storage, service configuration and secure deployment.
+
+**Stack**
+
+`Docker` `Docker Compose` `Linux` `Nginx` `MariaDB` `WordPress` `Redis` `TLS`
+
+**Highlights**
+
+- Multi-container Docker Compose infrastructure
+- Custom Dockerfiles and service configuration
+- Nginx reverse proxy with TLS
+- Persistent Docker volumes
+- Container networking and service dependencies
+- MariaDB and WordPress deployment
+- Redis integration
+- Linux system administration and troubleshooting
+
+🔗 **[View Inception →](https://github.com/viceda-s/42-cursus/tree/main/circle_2/inception)**
+
+---
+
+### 🎮 ft_transcendence — Real-Time Multiplayer Platform
+
+**Real-time multiplayer quiz platform developed as part of the 42 curriculum.**
+
+**Stack**
+
+`TypeScript` `Node.js` `NestJS` `Next.js` `React` `PostgreSQL` `Redis` `Docker` `Nginx` `Vault`
+
+**Highlights**
+
+- Real-time multiplayer WebSocket game engine
+- Redis-backed game state
+- OAuth 2.0 authentication
+- JWT authentication
+- Two-factor authentication
+- HashiCorp Vault for secret management
+- Docker Compose deployment
+- Nginx reverse proxy and TLS
+- Public API and rate limiting
+
+🔗 **[View project →](https://github.com/viceda-s/ft_transcendence)**
+
+---
+
+## 🎓 42 Luxembourg
+
+My development journey at **42 Luxembourg** has given me a strong foundation in:
+
+- C / C++ and systems programming
+- Algorithms and data structures
+- Unix / Linux environments
+- Networking
+- Memory management
+- Object-oriented programming
+- Software architecture
+- Git and collaborative development
+- Docker and infrastructure
+- Team-based projects
+
+The 42 methodology has also taught me to **learn independently, investigate problems and work through unfamiliar technologies**.
+
+---
+
+## ⚙️ Current Direction
+
+```text
+Software Development
+        │
+        ├── Backend
+        │    ├── Python
+        │    └── Java
+        │
+        ├── Infrastructure
+        │    ├── Linux
+        │    └── Docker
+        │
+        ├── DevOps
+        │    ├── CI/CD
+        │    ├── Automation
+        │    └── Monitoring
+        │
+        └── Platform Engineering
+             └── Learning & exploring
+```
+
+My current goal is to grow into a **DevOps / Platform Engineering role**, combining software development with automation, infrastructure and reliable delivery.
 
 ---
 
@@ -53,15 +191,7 @@ Built with a FastAPI + React + Tauri monorepo for rich data UIs — all data sta
 
 ![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=viceda-s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-</div>
-
-<div align="center">
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viceda-s&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<div align="center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=viceda-s&theme=tokyonight&hide_border=true)
 
@@ -69,30 +199,7 @@ Built with a FastAPI + React + Tauri monorepo for rich data UIs — all data sta
 
 ---
 
-## 🎯 Current Learning Path
-
-```
-🎯 2025-2027 Goals:
-├── 📚 Master C/C++ fundamentals
-├── ☕ Enhance Java skills
-├── 🔧 Complete school projects successfully
-├── 🚀 Build portfolio projects
-└── 🤝 Contribute to open source
-```
-
----
-
-## 💡 Quote
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
-
----
-
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 <div align="center">
 
@@ -103,30 +210,9 @@ Built with a FastAPI + React + Tauri monorepo for rich data UIs — all data sta
 
 ---
 
-## 🎲 Random Dev Joke
-
 <div align="center">
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight)
-
-</div>
-
----
-
-## 👀 Profile Views
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=viceda-s&color=blue&style=flat-square&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Show some love by starring some repositories if you find them helpful! ⭐
-
-*"Making the journey fun to follow along!"*
+*"Code is like humor. When you have to explain it, it's bad."*  
+— Cory House
 
 </div>

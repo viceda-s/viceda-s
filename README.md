@@ -153,9 +153,6 @@ My interest in DevOps grew through hands-on projects such as **Inception** and *
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/antigravity-color.svg" alt="Antigravity" title="Antigravity" width="48" height="48" /><br /><sub><b>Antigravity</b></sub>
-    </td>
-    <td align="center" width="96">
       <img src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/copilot-color.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" /><br /><sub><b>GitHub Copilot</b></sub>
     </td>
     <td align="center" width="96">
